@@ -5,6 +5,8 @@ A lightweight collaborative document editor: create and format documents, import
 **Live app:** https://ajaia-docs-vbmu.onrender.com
 **Source:** https://github.com/arju-singh/ajaia-docs
 
+![Demo](screenshots/demo.gif)
+
 ## Demo accounts
 
 All seeded accounts use the password **`demo1234`**. The login page also has one-click buttons for each.
