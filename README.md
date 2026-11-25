@@ -2,7 +2,7 @@
 
 A lightweight collaborative document editor: create and format documents, import files, and share them with other users as editors or viewers.
 
-**Live app:** LIVE_URL_PLACEHOLDER
+**Live app:** https://ajaia-docs-vbmu.onrender.com
 **Source:** https://github.com/arju-singh/ajaia-docs
 
 ## Demo accounts

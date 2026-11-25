@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| Live app | LIVE_URL_PLACEHOLDER |
+| Live app | https://ajaia-docs-vbmu.onrender.com |
 | Source code | https://github.com/arju-singh/ajaia-docs (also in this Drive folder) |
 | Walkthrough video | VIDEO_URL_PLACEHOLDER |
 | Login | `alice@ajaia.test` / `bob@ajaia.test` / `carol@ajaia.test`, password `demo1234` (one-click buttons on the login page) |
