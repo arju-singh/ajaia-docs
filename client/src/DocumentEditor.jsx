@@ -151,7 +151,7 @@ export default function DocumentEditor({ id }) {
         </article>
       </div>
 
-      {shareOpen && <ShareDialog doc={doc} onClose={() => setShareOpen(false)} />}
+      {shareOpen && <ShareDialog doc={{ ...doc, title: title.trim() || doc.title }} onClose={() => setShareOpen(false)} />}
     </main>
   );
 }
