@@ -1,0 +1,21 @@
+{
+  "name": "ajaia-docs-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --no-warnings=ExperimentalWarning src/index.js",
+    "dev": "node --no-warnings=ExperimentalWarning --watch src/index.js",
+    "test": "node --no-warnings=ExperimentalWarning --test test/*.test.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "mammoth": "^1.13.0",
+    "marked": "^18.3.0",
+    "multer": "^2.5.0",
+    "sanitize-html": "^2.18.2"
+  },
+  "devDependencies": {
+    "supertest": "^7.3.2"
+  }
+}
